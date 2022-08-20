@@ -1,0 +1,12 @@
+C:\Users\basta\source\repos\EmployeesTask\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.deps.json
+C:\Users\basta\source\repos\EmployeesTask\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.dll
+C:\Users\basta\source\repos\EmployeesTask\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.pdb
+C:\Users\basta\source\repos\EmployeesTask\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.csproj.AssemblyReference.cache
+C:\Users\basta\source\repos\EmployeesTask\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basta\source\repos\EmployeesTask\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.AssemblyInfoInputs.cache
+C:\Users\basta\source\repos\EmployeesTask\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.AssemblyInfo.cs
+C:\Users\basta\source\repos\EmployeesTask\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\basta\source\repos\EmployeesTask\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.dll
+C:\Users\basta\source\repos\EmployeesTask\EmployeeLibrary\obj\Debug\net6.0\refint\EmployeeLibrary.dll
+C:\Users\basta\source\repos\EmployeesTask\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.pdb
+C:\Users\basta\source\repos\EmployeesTask\EmployeeLibrary\obj\Debug\net6.0\ref\EmployeeLibrary.dll
